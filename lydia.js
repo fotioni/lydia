@@ -11,7 +11,7 @@ let evdokiahead;
 
 function preload() {
 
-  myFont = loadFont('images/PFGaramondClassic-OsFReg.ttf');
+  myFont = loadFont('images/PFDeeJay-Techno.ttf');
   evdokiahead = loadImage('images/new/evdokia_head.png');
 }
 
