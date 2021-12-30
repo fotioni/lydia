@@ -17,7 +17,7 @@ function preload() {
 
 function setup() {
 
-  cnv = createCanvas(1533, 768);
+  cnv = createCanvas(windowWidth, windowHeight);
 
   cameraImage = new Bodypart("images/camera3.png", 1415, 720);
   back = loadImage ("images/background_1.jpg");
