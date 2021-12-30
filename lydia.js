@@ -73,7 +73,8 @@ function draw() {
   fill('white');
   textFont(myFont);
   textSize(16);
-  text('press space to start over', 1330, 720);
+  text('space to', 1300, 720);
+  text('start over', 1300, 750);
   
   image(evdokiahead, 0, 0);
 }
