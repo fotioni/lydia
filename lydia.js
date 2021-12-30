@@ -19,7 +19,7 @@ function setup() {
 
   cnv = createCanvas(windowWidth, windowHeight);
 
-  cameraImage = new Bodypart("images/camera3.png", 1415, 720);
+  cameraImage = new Bodypart("images/1942191.png", 1415, 720);
   back = loadImage ("images/background_1.jpg");
   heldBodypart = null;
   bodyparts = [];
